@@ -1,20 +1,26 @@
-# Title
+# Badge finder
 
 ## Executive Summary
-
-*Your executive summary should be pretty brief, under 3 paragraphs and should provide a concise summary of the purpose and contents of the rest of the document.  Explain to the reader what they will get from this document.*
+A security enhancement app that guards on patrol can access information about a persons location.
+The app shouldnt slow down a phone's functionality and speed, But it should provide relavant information about finding people who are out in various locations at a job site that requires badge monitoring. such as last door scanned with date and time.
 
 ## Business Objectives
 
-*Business objectives should offer the details for why the project is important.  Outline the goals of the project int he sense of the value it will bring and set expectations.  Keep your objectives measurable to avoid confusion in whether or not they have been met.*
+The project is important because knowing where people are even while on a patrol is critical to finding the right person when information needs to be delivered to that person.
+The basic expectations of the badge finder app is that the user can interact with it and experience little to no lag.
+the app it self has a very simple interface so users can type in a badge number and search it's location, or users can use a feature to locate their own badge with a "Lost my Badge button" that guides some one to their badge.
+The color format should be basic but also cater to users with color blindness or visual imparements.
+
 
 ## Background
 
-*Provide any relevant background information regarding why this project is being initiated*
+Working at a data center where people use badges to scan through doors I often came across the conundrum that when I needed to locate one of the client site's workers the only option is to contact the office and hope some one can answer in a timely manner. With an app the security guards could use on their cellular device's cutting down on the wait time to locate some one would be time saving.
 
 ## Scope
 
-*The Scope section should outline what is and is not included as part of this project.  Oftentimes we make assumptions of features or functionality that is not necessarily required.  This is especially useful in a phased approach or when working on an existing system.*
+What is included with the project?
+-A form of geo location. 
+-Smooth interaction so there's minimal glitches or lag when the app loads.
 
 ## Functional requirements
 
